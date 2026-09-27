@@ -3,19 +3,6 @@
 **Module:** CIT300 – Data Structures and Algorithms
 
 
-A Java console application that manages university student records and
-models the campus as a network of locations and roads, built entirely
-with custom-implemented data structures (no built-in `java.util`
-collections used for the core structures).
-
----
-
-## ⚠️ Fill this in before submitting
-
-> The assignment requires every group member's name, student ID,
-> assigned responsibility, and individual contribution to be recorded
-> correctly here. **Missing or incorrect information may result in
-> marks being deducted.**
 
 | # | Name        | Student ID   | Responsibility | Individual Contribution |
 |---|-------------|--------------|-----------------|--------------------------|
